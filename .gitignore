@@ -1,0 +1,5 @@
+*.zip
+ANN Data/*
+CNN Data/*
+*/*.dat
+datasets/*
