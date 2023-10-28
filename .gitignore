@@ -1,3 +1,4 @@
+.ipynb_checkpoints
 *.zip
 */*.zip
 ANN Data/*
@@ -9,3 +10,4 @@ datasets/*
 */*.txt
 */*.npy
 */*.h5
+*.h5
