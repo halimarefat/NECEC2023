@@ -1,5 +1,11 @@
 *.zip
+*/*.zip
 ANN Data/*
 CNN Data/*
 */*.dat
 datasets/*
+*.txt
+*.npy
+*/*.txt
+*/*.npy
+*/*.h5
